@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+.section{
+    margin-top: 100px;
+    margin-left: 110px;
+}
+
+.title{
+    font-family: 'Pangolin', cursive;
+    font-weight: 400;
+    font-size: 28px;
+
+    display: inline-block;
+
+    border-bottom: 4px solid #3A8DA8;
+}
+
+.container{
+    display: flex;
+    gap: 100px;
+}

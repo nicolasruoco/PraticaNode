@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+    height: 565px;
+}
+
+.image{
+    width: 203px;
+    height: 312px;
+}
+
+.title{
+    font-family: "Rubik", sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+}
+
+.description{
+    font-family: "Rubik", sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: #DA323D;
+}
+
+.button{
+    border: 2px solid #124C5F;
+    width: 187px;
+    height: 52px;
+
+    font-family: "Rubik", sans-serif;
+    color: #124C5F;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
