@@ -2,7 +2,7 @@ import styles from "./Section.module.css";
 
 import Product from "../Product/Product"
 
-export default function Section({title, products, color}){
+export default function Section({title, products}){
     return(
         <div className={styles.section}>
             <h1 className={styles.title}>{title}</h1>
